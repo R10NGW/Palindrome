@@ -2,9 +2,9 @@
 using System.IO;
 
 
-namespace TagTree
+namespace palindrome
 {
-    class Program  //application 
+    class Program  //application that takes in a word from user and determines if it is a palindrome
     {
 
         public static string getString()   //gets string from user
