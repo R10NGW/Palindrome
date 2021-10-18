@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ryan\\Desktop\\projects\\Fibonacci Sequence\\C#.csproj": {}
+    "C:\\Users\\Ryan\\Desktop\\projects\\Palindrome\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ryan\\Desktop\\projects\\Fibonacci Sequence\\C#.csproj": {
+    "C:\\Users\\Ryan\\Desktop\\projects\\Palindrome\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryan\\Desktop\\projects\\Fibonacci Sequence\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\Ryan\\Desktop\\projects\\Palindrome\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\Ryan\\Desktop\\projects\\Fibonacci Sequence\\C#.csproj",
+        "projectPath": "C:\\Users\\Ryan\\Desktop\\projects\\Palindrome\\C#.csproj",
         "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryan\\Desktop\\projects\\Fibonacci Sequence\\obj\\",
+        "outputPath": "C:\\Users\\Ryan\\Desktop\\projects\\Palindrome\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ryan\\AppData\\Roaming\\NuGet\\NuGet.Config"
