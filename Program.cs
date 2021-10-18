@@ -2,7 +2,7 @@
 using System.IO;
 
 
-namespace TagTree
+namespace Palindrome
 {
     class Program  //application 
     {
