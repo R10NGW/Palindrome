@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ryan\\Desktop\\projects\\Palindrome\\C#.csproj",
+      "projectUniqueName": "C:\\Users\\Ryan\\Desktop\\projects\\Fibonacci Sequence\\C#.csproj",
       "projectName": "C#",
-      "projectPath": "C:\\Users\\Ryan\\Desktop\\projects\\Palindrome\\C#.csproj",
+      "projectPath": "C:\\Users\\Ryan\\Desktop\\projects\\Fibonacci Sequence\\C#.csproj",
       "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ryan\\Desktop\\projects\\Palindrome\\obj\\",
+      "outputPath": "C:\\Users\\Ryan\\Desktop\\projects\\Fibonacci Sequence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ryan\\AppData\\Roaming\\NuGet\\NuGet.Config"
